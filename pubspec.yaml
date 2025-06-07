@@ -1,0 +1,20 @@
+name: gradient_color_and_styles
+description: "A customizable Flutter package for creating beautiful gradient styles for various widgets."
+version: 1.0.0
+homepage: https://github.com/KANAGARAJ-M/gradient_color_and_styles
+
+environment:
+  sdk: ^3.8.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  # No assets needed for this package

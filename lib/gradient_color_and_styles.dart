@@ -1,0 +1,20 @@
+library gradient_color_and_styles;
+
+export 'src/gradient_container.dart';
+export 'src/gradient_button.dart';
+export 'src/gradient_text.dart';
+export 'src/gradient_icon.dart';
+export 'src/gradient_app_bar.dart';
+export 'src/gradient_config.dart';
+export 'src/preset_gradients.dart';
+export 'src/gradient_card.dart';
+export 'src/gradient_fab.dart';
+export 'src/gradient_bottom_nav_bar.dart';
+export 'src/gradient_border.dart';
+export 'src/gradient_tab_bar.dart';
+export 'src/gradient_avatar.dart';
+export 'src/gradient_divider.dart';
+export 'src/gradient_progress_indicator.dart';
+export 'src/gradient_slider.dart';
+export 'src/gradient_toggle.dart';
+export 'src/gradient_utils.dart';
